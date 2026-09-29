@@ -1,0 +1,6 @@
+interface:
+  display_name: "生物医药论文汇报"
+  short_description: "按论文故事组织章节，完整展示证据图，用例子讲懂算法并同步讲稿"
+  default_prompt: "使用 $biomedical-presentation-skill 按我的学术汇报偏好制作或优化这篇论文的PPT和讲稿。"
+policy:
+  allow_implicit_invocation: true
